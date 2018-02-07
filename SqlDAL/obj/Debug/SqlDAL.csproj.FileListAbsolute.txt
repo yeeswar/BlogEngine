@@ -1,0 +1,4 @@
+F:\Projects\BlogEngine\SqlDAL\bin\Debug\SqlDAL.dll
+F:\Projects\BlogEngine\SqlDAL\bin\Debug\SqlDAL.pdb
+F:\Projects\BlogEngine\SqlDAL\obj\Debug\SqlDAL.dll
+F:\Projects\BlogEngine\SqlDAL\obj\Debug\SqlDAL.pdb

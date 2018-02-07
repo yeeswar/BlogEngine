@@ -1,0 +1,7 @@
+F:\Projects\BlogEngine\BLL\bin\Debug\BLL.dll
+F:\Projects\BlogEngine\BLL\bin\Debug\BLL.pdb
+F:\Projects\BlogEngine\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Projects\BlogEngine\BLL\obj\Debug\BLL.dll
+F:\Projects\BlogEngine\BLL\obj\Debug\BLL.pdb
+F:\Projects\BlogEngine\BLL\bin\Debug\SqlDAL.dll
+F:\Projects\BlogEngine\BLL\bin\Debug\SqlDAL.pdb
